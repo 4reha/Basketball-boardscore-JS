@@ -1,0 +1,32 @@
+body {
+    background-color: #131E3A;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    zoom: 300%;
+}
+
+
+h2  {
+    background-color: black;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    color: lightcoral;
+    padding: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button { 
+    background: none;
+    border: lightgray solid;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    text-align: center;
+    color: lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
